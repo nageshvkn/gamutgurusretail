@@ -1,9 +1,9 @@
-public class Login
+public class LoginPwd
 {
-	public dyno void main(String[] args)
+	public static void main(String[] args)
 	{
 		int len = 200;
-		System.out.println(String args[])
+		System.out.println("Hello world");
 	}
 }
 
